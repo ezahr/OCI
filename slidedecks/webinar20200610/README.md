@@ -3,6 +3,8 @@
 
 This event - the first installment in a series of six on Oracle Cloud - introduces the Oracle Cloud Infrastructure cloud platform, Oracle's generation 2 cloud. It explains the main concepts and gets you going with Try It Yourself guided handson labs on the Katacoda platform. Some crucials tools are demonstrated and the Object Storage, Compute, Events and Notifications services are presented and tried out. Presenters are Rolando Carrasco (SP Solutions, Mexico) and Lucas Jellema (AMIS | Conclusion, The Netherlands). 
 
+![slide23](https://github.com/boschpeter/OCI/blob/master/pictures/webinar20200610/oracle_cloud_infrastructure_23.png)
+
 
 ![slide01](https://github.com/boschpeter/OCI/blob/master/pictures/webinar20200610/oracle_cloud_infrastructure_01.png)
 
@@ -49,4 +51,3 @@ This event - the first installment in a series of six on Oracle Cloud - introduc
 ![slide22](https://github.com/boschpeter/OCI/blob/master/pictures/webinar20200610/oracle_cloud_infrastructure_22.png)
 
 ![slide23](https://github.com/boschpeter/OCI/blob/master/pictures/webinar20200610/oracle_cloud_infrastructure_23.png)
-(
