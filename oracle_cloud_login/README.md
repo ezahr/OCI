@@ -41,11 +41,13 @@ Type `help` for more info.
 ![create ADW](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/create_autonomous_database_ADW.png)
 
 
-## oracle_cloud_autonomous_networking
+## oracle_Virtual Cloud Network (VCN)
 
-[VNC] (https://console.eu-amsterdam-1.oraclecloud.com/networking/vcns)
+![VNC] (https://console.eu-amsterdam-1.oraclecloud.com/networking/vcns)
 
-![](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/VNC.png)
+A virtual cloud network is a virtual version of a traditional network—including subnets, route tables, and gateways—on which your instances run. A cloud network resides within a single region but includes all the region's availability domains. Each subnet you define in the cloud network can either be in a single availability domain or span all the availability domains in the region (recommended). You need to set up at least one cloud network before you can launch instances. You can configure the cloud network with an optional internet gateway to handle public traffic, and an optional IPSec VPN connection or FastConnect to securely extend your on-premises network
+
+![vncs](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/VNC.png)
 
 
 ## oracle_cloud_autonomous_manager
@@ -65,7 +67,6 @@ Type `help` for more info.
 ## get_started_intro_resource_manager
 
 ## get_started_MuShop_basics
-
 
 ## deploy_team_chat 
 
