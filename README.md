@@ -14,6 +14,7 @@ the-six-part-real-oracle-cloud-platform-webinar-series-cloud-native-live-demo-an
 |6|Wednesday July 8th 2020 17:00-18:00 CET|
 |7|Wednesday July 15th 2020 17:00-18:00 CET| 
 
+[youtube Announcement by lukas jellema of the REAL OCI Cloud Native Application Development webinar series](https://www.youtube.com/watch?v=N9gstruyN2w&feature=youtu.be)
 
  Attend this series of six live webinars to get going with cloud native application development on the Oracle Cloud platform, created and presented by REAL specialists. The Red Expert Alliance (aka REAL) is a network of Oracle partners on four continents that have joined forces to share knowledge and experience based best practices, to support multinational customers and together create energy, inspiration and fun. This webinar series is produced by the Red Expert Alliance – in collaboration with Oracle (especially with Jürgen Kress). REAL Oracle ACEs, ACE Directors and Oracle Groundbreaker Ambassadors have created the hands-on scenarios on Oracle Cloud platform and present the live webinars.
 
