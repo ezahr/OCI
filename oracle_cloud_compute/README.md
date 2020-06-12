@@ -2,7 +2,22 @@
 # ssh ubuntu@ 158.101.192.41 
 
 
+![create VM](https://github.com/boschpeter/OCI/blob/master/oracle_cloud_compute/create_oracle_vm.png)
 
+![in progress](https://github.com/boschpeter/OCI/blob/master/oracle_cloud_compute/vm_in_progress.png )
+
+![created](https://github.com/boschpeter/OCI/blob/master/oracle_cloud_compute/vm_created_jeuh.png)
+
+
+## cat id_rsa.pub
+
+````
+boscp08@kubernetes-worker2:~/.ssh$ cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCxFhaL6pmpanMYT+LzxVf6a31uLTlQVFgKis5k0/3x+GvctEgOR5sNPzDb/f7Pm8M/SGuN2uvKId0MSJ6YW5bIjLq3GslsTmID0i
+etc etc
++fBapShPMTFgxWBIB4iCIhmnSFVo0sFynIKp+IjqTw5HnXYrxRTEmi/kxsO2ptN5gck5gphYKMUwa2Fp3AOU/4MIaJBcOx8GUjawrupk5eZZCAFbld1eOn5cqH9heJCXFhljTvwD8ZE3qE93cGg3faU= boscp08@foss
+
+````
 
 
 ## cloud-init.txt
