@@ -2,9 +2,9 @@
 
 
 
-[ThisIsCool_1234](https://www.oracle.com/cloud/sign-in.html)
+![ThisIsCool_1234](https://www.oracle.com/cloud/sign-in.html)
 
-[quickactions](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/quickActions_explore.png)
+![quickactions](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/quickActions_explore.png)
 
 |pwd|https://console.eu-amsterdam-1.oraclecloud.com/|
 |------|-------------------------------------------------|
@@ -17,7 +17,7 @@
 
 ## Create Compute Instance
 
-[create computer instance](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/create_computer_instance.png)
+![create computer instance](https://github.com/boschpeter/OCI/blob/master/pictures/oraclecloud/create_computer_instance.png)
 
 
 # Start Exploring
