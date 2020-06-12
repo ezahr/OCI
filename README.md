@@ -3,7 +3,7 @@
 the-six-part-real-oracle-cloud-platform-webinar-series-cloud-native-live-demo-and-hands-on-oracle-developer-meetup-sessions-kicking-off-june-10th-2020
 
 
-|part|the-six-part-real-oracle-cloud-platform-webinar-series|
+|part|the-six-part-real-oracle-cloud-platform-webinar-series ThisIsCool_2020|
 |--|------------------------------------------|
 |0|Wednesday June 10th 2020 17:00-18:00 CET|
 |1|Monday June 15th 2020 19:00-20:00 CET|
