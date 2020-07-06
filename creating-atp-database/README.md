@@ -1,8 +1,10 @@
 # Create Autonomous Database  
 
+
+
 db=delhaye  
 ADMIN Happy_Panda2020
-
+https://rrgupkdx3ftnfsa-delhaye.adb.eu-amsterdam-1.oraclecloudapps.com/ords/admin/_sdw/?nav=worksheet
 
 
 
