@@ -1,5 +1,9 @@
 # OCI oracle cloud infrastructure
 
+
+https://console.eu-amsterdam-1.oraclecloud.com/   
+
+
 the-six-part-real-oracle-cloud-platform-webinar-series-cloud-native-live-demo-and-hands-on-oracle-developer-meetup-sessions-kicking-off-june-10th-2020
 
 
