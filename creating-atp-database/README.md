@@ -1,6 +1,24 @@
 # Create Autonomous Database  
 
+https://console.eu-amsterdam-1.oraclecloud.com/?cloudshell=true
 
+````
+Welcome to Oracle Cloud Shell.
+
+Your Cloud Shell machine comes with 5GB of storage for your home directory. Your Cloud Shell (machine and home directory) are located in: Netherlands Northwest (Amsterdam).
+Type `help` for more info.
+bosch_pete@cloudshell:~ (eu-amsterdam-1)$ ls -ltr
+total 0
+bosch_pete@cloudshell:~ (eu-amsterdam-1)$ sqlplus
+
+SQL*Plus: Release 19.0.0.0.0 - Production on Tue Jul 28 10:59:10 2020
+Version 19.5.0.0.0
+
+Copyright (c) 1982, 2019, Oracle.  All rights reserved.
+
+Enter user-name: admin
+Enter password: 
+````
 
 db=delhaye  
 ADMIN Happy_Panda2020
