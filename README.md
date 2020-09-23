@@ -44,4 +44,10 @@ To register for this session - and the other five installments in the series - g
 
 Watch this short video for an overview of what this session entails: https://youtu.be/N9gstruyN2w . 
 
+Oracle breidt zijn samenwerking uit met Altair, een wereldwijd technologiebedrijf dat oplossingen biedt op het gebied van data-analyse, productontwikkeling en high-performance computing (HPC).
 
+Als onderdeel van de meerjarige overeenkomst zal Altair veel van zijn interne workloads en commerciële software-as-a-service (SaaS) laten draaien op Oracle Cloud Infrastructure, inclusief zijn portfolio van hoogwaardige technische simulatie- en analyseproducten.
+
+Oracle is verder als cloudaanbieder de eerste die NVIDIA A100 Tensor Core GPU algemeen beschikbaar maakt op bare metal instances. Oracle's nieuwste GPU-instanties stellen klanten in sectoren als de auto-industrie en de luchtvaart in staat om complexe, data-intensieve, high-performance toepassingen zoals modellering en simulaties efficiënter en tegen lagere kosten dan ooit tevoren uit te voeren zo beweert Oracle.
+
+Oracle kondigt tot slot aan dat het cloud HPC-simulatieplatform van Rescale nu beschikbaar is op Oracle Cloud Infrastructure. Rescale's platform helpt ingenieurs en wetenschappers bij het bouwen, berekenen, analyseren en schalen van simulaties door middel van high performance computing. Nu kunnen klanten van Rescale hun cruciale ingenieurssimulatie- en analysetoepassingen implementeren en beheren op de moderne cloudinfrastructuur van Oracle.
